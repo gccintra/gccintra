@@ -1,22 +1,19 @@
-
-## 🚀 Sobre Mim
-
-Olá! Sou **Gustavo da Costa Cintra**, um entusiasta da **Engenharia de Software** apaixonado por desafios e pela arte de criar produtos digitais. Meu playground diário inclui a intersecção entre a **lógica de programação**, a **matemática** e a **criatividade**. Como um *Product Owner* e *Product Designer*, estou sempre buscando maneiras de tornar a experiência do usuário incrível!
-
+## Welcome
 ---
+- **Product Owner and Product Designer** at a software factory
 
-## 🛠️ Tecnologias Principais
+- Software Engineering student at UNB (University of Brasilia)
 
+## 🛠️ Main Technologies
+---
 - JavaScript (*Node.js*, *React Native*, *React*)
-- HTML e CSS
+- HTML and CSS
 - Bootstrap
 
+## 📫 Contact
 ---
-
-## 📫 Contato
-
-- **Email:** [seuemail@gmail.com](mailto:seuemail@gmail.com)
-- **LinkedIn:** [linkedin.com/in/seu_perfil](https://linkedin.com/in/seu_perfil)
+- **Email:** [cintra.gucintra@gmail.com](mailto:cintra.gucintra@gmail.com)
+- **LinkedIn:** [linkedin.com/in/GustavoCintra](https://www.linkedin.com/in/gustavo-cintra-5aa155269/)
 
 <!---
 gccintra/gccintra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
