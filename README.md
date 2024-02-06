@@ -10,7 +10,7 @@
 - HTML and CSS
 - Bootstrap
 
-### 📫 Contact
+### Contact
 
 - **Email:** [cintra.gucintra@gmail.com](mailto:cintra.gucintra@gmail.com)
 - **LinkedIn:** [linkedin.com/in/GustavoCintra](https://www.linkedin.com/in/gustavo-cintra-5aa155269/)
