@@ -5,13 +5,13 @@
 - **Software Engineering student** at UNB (University of Brasilia)
 
 ### Main Technologies
-
+---
 - JavaScript (*Node.js*, *React Native*, *React*)
 - HTML and CSS
 - Bootstrap
 
 ### Contact
-
+---
 - **Email:** [cintra.gucintra@gmail.com](mailto:cintra.gucintra@gmail.com)
 - **LinkedIn:** [linkedin.com/in/GustavoCintra](https://www.linkedin.com/in/gustavo-cintra-5aa155269/)
 
