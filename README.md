@@ -1,8 +1,8 @@
-## Welcome
+## Welcome 🌟
 
 - **Product Owner and Product Designer** at a software factory
 
-- Software Engineering student at UNB (University of Brasilia)
+- **Software Engineering student** at UNB (University of Brasilia)
 
 ## 🛠️ Main Technologies
 
