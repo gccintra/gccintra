@@ -1,6 +1,4 @@
 
----
-
 ## 🚀 Sobre Mim
 
 Olá! Sou **Gustavo da Costa Cintra**, um entusiasta da **Engenharia de Software** apaixonado por desafios e pela arte de criar produtos digitais. Meu playground diário inclui a intersecção entre a **lógica de programação**, a **matemática** e a **criatividade**. Como um *Product Owner* e *Product Designer*, estou sempre buscando maneiras de tornar a experiência do usuário incrível!
