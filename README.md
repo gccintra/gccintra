@@ -6,7 +6,7 @@
 
 ## Main Technologies
 
-- JavaScript (*Node.js*, *React Native*, *React*)
+- Python (*flask*)
 - HTML and CSS
 - Bootstrap
 
