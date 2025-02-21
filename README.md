@@ -7,7 +7,7 @@
 ## Main Technologies
 
 - Python (*flask*)
-- HTML and CSS
+- HTML, CSS and JS
 - Bootstrap
 
 ## Contact
