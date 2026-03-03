@@ -1,15 +1,3 @@
-# Welcome 
-
-- **Product Owner and Product Designer** at a software factory
-
-- **Software Engineering student** at UNB (University of Brasilia)
-
-## Main Technologies
-
-- Python (*flask*)
-- HTML, CSS and JS
-- Bootstrap
-
 ## Contact
 
 - **Email:** [cintra.gucintra@gmail.com](mailto:cintra.gucintra@gmail.com)
